@@ -1,5 +1,4 @@
-# animation
-
+# Simple Animation Demo in Flutter
 A new Flutter project.
 
 ## Getting Started
